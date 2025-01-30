@@ -1,0 +1,6 @@
+.env
+.vscode
+__pycache__/
+csv_output
+klv_output
+media
